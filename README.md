@@ -14,3 +14,7 @@ Visualization, by month:
 ### Loitering munition strikes
 
 Source: [Hit Or Miss: The Russian Loitering Munition Kill List](https://www.oryxspioenkop.com/2022/11/hit-or-miss-russian-loitering-munition.html) by Oryx
+
+Visualization, by week, compared to another data source:
+
+![Loitering munitions](oryx-lancet-comparison-weekly.png "Loitering munitions")
